@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.86),rgba(0,0,0,0.86)),url(./img/background-img-burguer.jpg);
+}
+
+b{
+   color:  #d29a33;
+}
+
+.logo{
+    width: 180px;
+    margin-top: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.logo:hover{
+    opacity: 0.8;
+}
+
+.logo-2{
+    width: 200px;
+    margin-left: 69%;
+}
+
+.container-buttons {
+    margin: 200px 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    background-color: #d29a33;
+    border: none;
+    border-radius: 5px;
+    color: #000000;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 210px;
+    border: 2px solid #000000;
+    font-size: 15px;
+}
+
+button:hover {
+    opacity: 0.8;
+    color: #FFFFFF;
+    border: 2px solid #ffffff;
+}
+
+button:active{
+    opacity: 0.4;
+
+}
+
+ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 255px 255px 255px;
+    gap: 70px;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+li {
+    
+    border: 2px solid #d29a33;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+li:hover{
+    opacity: 0.8;
+    border: 2px solid #ffffff;
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid #d29a33;
+}
+
+
+p {
+    color: #FFFFFF;
+}
+
+.item-price{
+    font-weight: bold;
+    color: #76cb15;
+}
