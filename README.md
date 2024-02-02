@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/Williancosta98/Hamburgueria/45ea013ef9db434e6bf5363d7602219454e89f99/img/main-website-image.PNG" alt="website-will-burguer">
 <br>
 <br>
-<p>Clicando na opção "Lanches Disponveis", imagens, nomes e preços dos lanches irá aparecer na pagina a baixo :point_down:</p>
+<p>Clicando na opção "Lanches Disponveis". Imagens, nomes e preços dos lanches irá aparecer na pagina a baixo :point_down:</p>
 <img src="https://raw.githubusercontent.com/Williancosta98/Hamburgueria/45ea013ef9db434e6bf5363d7602219454e89f99/img/show-all-website-image.png" alt="website-will-burguer-show-all">
 <br>
 <br>
